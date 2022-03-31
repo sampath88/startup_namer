@@ -157,14 +157,4 @@ class _RandomWordsState extends State<RandomWords> {
   );
 }
 
-  // Widget _buildRowWithIcon(WordPair pair) {
-  //   return ListTile(
-  //     title: Text(pair.asPascalCase, style: _biggerFont),
-  //     trailing: const Icon(
-  //       Icons.favorite_border,
-  //       size: 24.0,
-  //       semanticLabel: 'add to favourite',
-  //     ),
-  //   );
-  // }
 }
